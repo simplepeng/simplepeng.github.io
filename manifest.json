@@ -1,6 +1,6 @@
 {
-    "name": "main_page",
-    "short_name": "main_page",
+    "name": "main_page_flutter",
+    "short_name": "main_page_flutter",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
