@@ -14017,7 +14017,7 @@ iZ(a){return A.S_(new A.kt("Paste is not implemented for this browser."),null,t.
 A.bK.prototype={
 gjY(a){var s=this.a
 s=s==null?null:J.Ye(s)
-return s==null?"https://unpkg.com/canvaskit-wasm@0.33.0/bin/":s},
+return s==null?"https://cdn.jsdelivr.net/npm/canvaskit-wasm@0.24.0/bin/":s},
 gjZ(a){var s=this.a
 s=s==null?null:J.Yf(s)
 return s==null?!1:s},
