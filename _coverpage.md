@@ -4,5 +4,5 @@
 
 [掘金](https://juejin.cn/user/641770519265832)
 [博客](https://simplepeng.github.io/blog)
-[学习笔记](https://simplepeng.github.io/KeepLearning)
+[笔记](https://simplepeng.github.io/KeepLearning)
 [GitHub](https://github.com/simplepeng)
