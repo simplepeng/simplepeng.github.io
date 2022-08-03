@@ -4,7 +4,7 @@
 
 ## may be have fun
 
-[掘金](https://juejin.cn/user/641770519265832)
+[掘金](https://juejin.cn/user/641770519265832/posts)
 [博客](https://simplepeng.com/blog)
 [学习笔记](https://simplepeng.com/KeepLearning)
 [GitHub](https://github.com/simplepeng)
